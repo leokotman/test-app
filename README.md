@@ -1,1 +1,112 @@
-IyBRdWl6IENMSQoKPiDwn46uIEFuIGludGVyYWN0aXZlIGNvbW1hbmQtbGluZSBxdWl6IGdhbWUgYnVpbHQgd2l0aCBOb2RlLmpzIC0gVGVzdCB5b3VyIEphdmFTY3JpcHQgYW5kIHByb2dyYW1taW5nIGtub3dsZWRnZSEKCkEgbGlnaHR3ZWlnaHQsIGRlcGVuZGVuY3ktZnJlZSB0ZXJtaW5hbCBxdWl6IGFwcGxpY2F0aW9uIGZlYXR1cmluZyBjb2xvcmZ1bCBvdXRwdXQsIHByb2dyZXNzIHRyYWNraW5nLCBhbmQgaW5zdGFudCBmZWVkYmFjay4gUGVyZmVjdCBmb3IgZGV2ZWxvcGVycyBsb29raW5nIHRvIHRlc3QgdGhlaXIga25vd2xlZGdlIG9yIGxlYXJuIHdoaWxlIGhhdmluZyBmdW4hCgotLS0KCiMjIOKcqCBGZWF0dXJlcwoKLSDwn5SaICoqMTUgQ3VyYXRlZCBRdWVzdGlvbnMqKiAtIENvdmVyaW5nIEphdmFTY3JpcHQgQmFzaWNzLCBOb2RlLmpzIEZ1bmRhbWVudGFscywgYW5kIEdlbmVyYWwgUHJvZ3JhbW1pbmcKLSDwn46YICoqQ29sb3JmdWwgVGVybWluYWwgT3V0cHV0KiogLSBCZWF1dGlmdWwgQU5TSS1jb2xvcmVkIGludGVyZmFjZSBmb3IgZW5oYW5jZWQgcmVhZGFiaWxpdHkKLSDwn5OKICoqUmVhbC10aW1lIFByb2dyZXNzIFRyYWNraW5nKiogLSBWaXN1YWwgcHJvZ3Jlc3MgYmFyIHNob3dpbmcgeW91ciBhZHZhbmNlbWVudAotIPCfjrAgKipSYW5kb21pemVkIFF1ZXN0aW9ucyoqIC0gRmlzaGVyLVlhdGVzIHNodWZmbGUgYWxnb3JpdGhtIGVuc3VyZXMgdW5pcXVlIHF1aXogZXhwZXJpZW5jZXMKLSDwn5KhICoqRWR1Y2F0aW9uYWwgRXhwbGFuYXRpb25zKiogLSBMZWFybiBmcm9tIGRldGFpbGVkIGFuc3dlciBleHBsYW5hdGlvbnMKLSDwn5OdICoqUmV2aWV3IEluY29ycmVjdCBBbnN3ZXJzKiogLSBSZXZpZXcgd2hhdCB5b3UgbWlzc2VkIGFmdGVyIGNvbXBsZXRpbmcgdGhlIHF1aXoKLSDwn5SBICoqUmVwbGF5IEZ1bmN0aW9uYWxpdHkqKiAtIFRha2UgdGhlIHF1aXogYWdhaW4gdG8gaW1wcm92ZSB5b3VyIHNjb3JlCi0g4oCiICoqWmVybyBEZXBlbmRlbmNpZXMqKiAtIEJ1aWx0IGVudGlyZWx5IHdpdGggTm9kZS5qcyBidWlsdC1pbiBtb2R1bGVzCi0g8J+OryAqKlBlcmZvcm1hbmNlIEZlZWRiYWNrKiogLSBHZXQgcGVyc29uYWxpemVkIGZlZWRiYWNrIGJhc2VkIG9uIHlvdXIgc2NvcmUKCi0tLQoKIyMg8J+TiyBQcmVyZXF1aXNpdGVzCgpCZWZvcmUgcnVubmluZyB0aGlzIGFwcGxpY2F0aW9uLCBlbnN1cmUgeW91IGhhdmU6CgotICoqTm9kZS5qcyoqID49IDE4LjAuMCBpbnN0YWxsZWQKLSBUZXJtaW5hbC9Db21tYW5kIFByb21wdCB3aXRoIEFOU0kgY29sb3Igc3VwcG9ydCAobW9zdCBtb2Rlcm4gdGVybWluYWxzKQoKQ2hlY2sgeW91ciBOb2RlLmpzIHZlcnNpb246CmBgYGJhc2gKbm9kZSAtLXZlcnNpb24KYGBgCgotLS0KCiMjIPCfmoAgSW5zdGFsbGF0aW9uCgoxLiAqKkNsb25lIHRoZSByZXBvc2l0b3J5OioqCiAgIGBgYGJhc2gKICAgZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS95b3VydXNlcm5hbWUvcXVpei1jbGkuZ2l0CiAgIGNkIHF1aXotY2xpCiAgIGBgYAoKMi4gKipObyBpbnN0YWxsYXRpb24gbmVlZGVkISmqgJEg8J+OiQogICAKICAgVGhpcyBwcm9qZWN0IHVzZXMgemVybyBleHRlcm5hbCBkZXBlbmRlbmNpZXMgLSBpdCdzIHJlYWR5IHRvIHJ1biBpbW1lZGlhdGVseSEKCi0tLQoKIyMg8J+OriBVc2FnZQoKU3RhcnQgdGhlIHF1aXogd2l0aCBlaXRoZXIgY29tbWFuZDoKCmBgYGJhc2gKbnBtIHN0YXJ0CmBgYAoKb3IKCmBgYGJhc2gKbm9kZSBpbmRleC5qcwpgYGAKCi0tLQoKIyMg8J+TgSBQcm9qZWN0IFN0cnVjdHVyZQoKYGBgCnF1aXotY2xpLwrii5QKjpIgaW5kZXguanMgICAgICAgICAgICAgICAgICMgQXBwbGljYXRpb24gZW50cnkgcG9pbnQgLSBpbml0aWFsaXplcyBhbmQgc3RhcnRzIHRoZSBxdWl6CuKUmCBwYWNrYWdlLmpzb24gICAgICAgICAgICAgIyBOUE0gY29uZmlndXJhdGlvbiBhbmQgcHJvamVjdCBtZXRhZGF0YQrijJQgc3JjLwrijJQgoCDijJQgcXVpei5qcyAgICAgICAgICAgICAjIENvcmUgUXVpeiBjbGFzcyB3aXRoIGdhbWUgbG9naWMgYW5kIGZsb3cgY29udHJvbArijJQgoCDijJQgaW5wdXQuanMgICAgICAgICAgICAjIFJlYWRsaW5lIHdyYXBwZXIgZm9yIGhhbmRsaW5nIHVzZXIgaW5wdXQK4oyUoCDijJQgY29sb3JzLmpzICAgICAgICAgICAjIEFOU0kgdGVybWluYWwgY29sb3IgdXRpbGl0aWVzIGZvciBzdHlsZWQgb3V0cHV0CuKUlCBkYXRhLwogICAg4pSUIHF1ZXN0aW9ucy5qc29uICAgICAgIyBRdWVzdGlvbiBiYW5rIHdpdGggY2F0ZWdvcmllcyBhbmQgZXhwbGFuYXRpb25zCmBgYAoKIyMjIEZpbGUgRGVzY3JpcHRpb25zCgp8IEZpbGUgfCBQdXJwb3NlIHwKfC0tLS0tLXwtLS0tLS0tLXwKfCBgaW5kZXguanNgIHwgTWFpbiBlbnRyeSBwb2ludCB0aGF0IGluaXRpYWxpemVzIGFuZCBsYXVuY2hlcyB0aGUgcXVpeiBhcHBsaWNhdGlvbiB8CnwgYHNyYy9xdWl6LmpzYCB8IENvbnRhaW5zIHRoZSBgUXVpemAgY2xhc3Mgd2l0aCBtZXRob2RzIGZvciBnYW1lIGZsb3csIHNjb3JpbmcsIGFuZCBxdWVzdGlvbiBtYW5hZ2VtZW50IHwKfCBgc3JjL2lucHV0LmpzYCB8IFdyYXBwZXIgYXJvdW5kIE5vZGUuanMgYHJlYWRsaW5lYCBtb2R1bGUgZm9yIHNpbXBsaWZpZWQgYXN5bmMgdXNlciBpbnB1dCB8CnwgYHNyYy9jb2xvcnMuanNgIHwgVXRpbGl0eSBmdW5jdGlvbnMgZm9yIEFOU0kgZXNjYXBlIGNvZGVzIHRvIGFkZCBjb2xvcnMgdG8gdGVybWluYWwgb3V0cHV0IHwKfCBgZGF0YS9xdWVzdGlvbnMuanNvbmAgfCBKU09OIGRhdGFiYXNlIGNvbnRhaW5pbmcgcXVpeiBxdWVzdGlvbnMsIGFuc3dlcnMsIGFuZCBleHBsYW5hdGlvbnMgfAoKLS0tCgojIyDwn46vIEhvdyB0byBQbGF5CgoxLiAqKlN0YXJ0IHRoZSBRdWl6KiogLSBSdW4gdGhlIGFwcGxpY2F0aW9uIHVzaW5nIHRoZSBjb21tYW5kcyBhYm92ZQoyLiAqKlJlYWQgRWFjaCBRdWVzdGlvbioqIC0gUXVlc3Rpb25zIGFyZSBkaXNwbGF5ZWQgb25lIGF0IGEgdGltZSB3aXRoIG11bHRpcGxlIGNob2ljZSBvcHRpb25zCjMuICoqRW50ZXIgWW91ciBBbnN3ZXIqKiAtIFR5cGUgdGhlIGxldHRlciAoQSwgQiwgQywgb3IgRCkgY29ycmVzcG9uZGluZyB0byB5b3VyIGNob2ljZQo0LiAqKkdldCBJbnN0YW50IEZlZWRiYWNrKiogLSBTZWUgaWYgeW91J3JlIGNvcnJlY3Qgd2l0aCBjb2xvci1jb2RlZCByZXNwb25zZXM6CiAgIC0g4pyFICoqR3JlZW4qKiA9IENvcnJlY3QgYW5zd2VyCiAgIC0g4pyMICoqUmVkKiogPSBJbmNvcnJlY3QgYW5zd2VyCjUuICoqVmlldyBFeHBsYW5hdGlvbnMqKiAtIExlYXJuIGZyb20gZGV0YWlsZWQgZXhwbGFuYXRpb25zIGFmdGVyIGVhY2ggcXVlc3Rpb24KNi4gKipUcmFjayBQcm9ncmVzcyoqIC0gV2F0Y2ggdGhlIHByb2dyZXNzIGJhciBmaWxsIGFzIHlvdSBhZHZhbmNlCjcuICoqUmV2aWV3IFBlcmZvcm1hbmNlKiogLSBBdCB0aGUgZW5kLCBzZWUgeW91ciBmaW5hbCBzY29yZSBhbmQgcGVyZm9ybWFuY2UgcmF0aW5nCjguICoqUmV2aWV3IE1pc3Rha2VzKiogLSBPcHRpb24gdG8gcmV2aWV3IGFsbCBpbmNvcnJlY3QgYW5zd2Vycwo5LiAqKlBsYXkgQWdhaW4qKiAtIENob29zZSB0byByZXRha2UgdGhlIHF1aXogYW5kIGltcHJvdmUgeW91ciBzY29yZSEKCiMjIyBQZXJmb3JtYW5jZSBSYXRpbmdzCgotIPCfj5YgKio4MC0xMDAlKiogLSBFeGNlbGxlbnQhIFlvdSdyZSBhIHByb2dyYW1taW5nIHdpemFyZCEKLSDwn5G9ICoqNjAtNzklKiogLSBHb29kIGpvYiEgWW91IGhhdmUgc29saWQga25vd2xlZGdlIQotIPCflKogKio0MC01OSUqKiAtIE5vdCBiYWQhIEtlZXAgbGVhcm5pbmcgYW5kIHByYWN0aWNpbmchCi0g8J+Sqiogkio+MC0zOSUqKg==
+# Quiz CLI
+
+> 🎮 An interactive command-line quiz game built with Node.js - Test your JavaScript and programming knowledge!
+
+A lightweight, dependency-free terminal quiz application featuring colorful output, progress tracking, and instant feedback. Perfect for developers looking to test their knowledge or learn while having fun!
+
+---
+
+## ✨ Features
+
+- 📚 **15 Curated Questions** - Covering JavaScript Basics, Node.js Fundamentals, and General Programming
+- 🎨 **Colorful Terminal Output** - Beautiful ANSI-colored interface for enhanced readability
+- 📊 **Real-time Progress Tracking** - Visual progress bar showing your advancement
+- 🔀 **Randomized Questions** - Fisher-Yates shuffle algorithm ensures unique quiz experiences
+- 💡 **Educational Explanations** - Learn from detailed answer explanations
+- 📝 **Review Incorrect Answers** - Review what you missed after completing the quiz
+- 🔁 **Replay Functionality** - Take the quiz again to improve your score
+- ⚡ **Zero Dependencies** - Built entirely with Node.js built-in modules
+- 🎯 **Performance Feedback** - Get personalized feedback based on your score
+
+---
+
+## 📋 Prerequisites
+
+Before running this application, ensure you have:
+
+- **Node.js** >= 18.0.0 installed
+- Terminal/Command Prompt with ANSI color support (most modern terminals)
+
+Check your Node.js version:
+```bash
+node --version
+```
+
+---
+
+## 🚀 Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/quiz-cli.git
+   cd quiz-cli
+   ```
+
+2. **No installation needed!** 🎉
+
+   This project uses zero external dependencies - it's ready to run immediately!
+
+---
+
+## 🎮 Usage
+
+Start the quiz with either command:
+
+```bash
+npm start
+```
+
+or
+
+```bash
+node index.js
+```
+
+---
+
+## 📁 Project Structure
+
+```
+quiz-cli/
+├── index.js                 # Application entry point - initializes and starts the quiz
+├── package.json             # NPM configuration and project metadata
+├── src/
+│   ├── quiz.js             # Core Quiz class with game logic and flow control
+│   ├── input.js            # Readline wrapper for handling user input
+│   └── colors.js           # ANSI terminal color utilities for styled output
+└── data/
+    └── questions.json      # Question bank with categories and explanations
+```
+
+### File Descriptions
+
+| File | Purpose |
+|------|---------|
+| `index.js` | Main entry point that initializes and launches the quiz application |
+| `src/quiz.js` | Contains the `Quiz` class with methods for game flow, scoring, and question management |
+| `src/input.js` | Wrapper around Node.js `readline` module for simplified async user input |
+| `src/colors.js` | Utility functions for ANSI escape codes to add colors to terminal output |
+| `data/questions.json` | JSON database containing quiz questions, answers, and explanations |
+
+---
+
+## 🎯 How to Play
+
+1. **Start the Quiz** - Run the application using the commands above
+2. **Read Each Question** - Questions are displayed one at a time with multiple choice options
+3. **Enter Your Answer** - Type the letter (A, B, C, or D) corresponding to your choice
+4. **Get Instant Feedback** - See if you're correct with color-coded responses:
+   - ✅ **Green** = Correct answer
+   - ❌ **Red** = Incorrect answer
+5. **View Explanations** - Learn from detailed explanations after each question
+6. **Track Progress** - Watch the progress bar fill as you advance
+7. **Review Performance** - At the end, see your final score and performance rating
+8. **Review Mistakes** - Option to review all incorrect answers
+9. **Play Again** - Choose to retake the quiz and improve your score!
+
+### Performance Ratings
+
+- 🏆 **80-100%** - Excellent! You're a programming wizard!
+- 👍 **60-79%** - Good job! You have solid knowledge!
+- 📚 **40-59%** - Not bad! Keep learning and practicing!
+- 💪 **0-39%** - Keep going! Every expert was once a beginner!
