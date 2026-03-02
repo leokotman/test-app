@@ -1,6 +1,6 @@
-# Test App Quiz
+# 📚 Quiz CLI
 
-A simple command-line quiz application built with Node.js.
+An interactive command-line quiz game that tests your programming knowledge — built with pure Node.js and zero external dependencies.
 
 ## Table of Contents
 
